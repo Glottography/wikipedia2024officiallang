@@ -1,0 +1,8 @@
+{
+    "id": "wikipedia2024officiallang",
+    "title": "Glottography dataset derived from Wikipedia contributors 2024 \"List of official languages by country and territory --- Wikipedia, The Free Encyclopedia\"",
+    "description": "This dataset provides overlapping, contemporary language ranges based on the list of official languages by country and territory from Wikipedia 2024.",
+    "license": "CC-BY-4.0",
+    "url": null,
+    "citation": "{Wikipedia contributors}. 2024. List of official languages by country and territory --- Wikipedia, The Free Encyclopedia. ([Online; accessed 18-November-2024])."
+}

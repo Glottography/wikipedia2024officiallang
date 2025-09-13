@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Wikipedia contributors 2024 \"List of official languages by country and territory --- Wikipedia, The Free Encyclopedia\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>{Wikipedia contributors}. 2024. List of official languages by country and territory --- Wikipedia, The Free Encyclopedia. ([Online; accessed 18-November-2024]).</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

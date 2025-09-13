@@ -1,0 +1,189 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+afar1241,Afar,,12.2281,41.8083,afar1241,,51,language,Afro-Asiatic,languages
+afri1274,Afrikaans,,-31.63272,20.46356,afri1274,,87,language,Indo-European,languages
+amha1245,Amharic,,11.708182,39.543456,amha1245,,52,language,Afro-Asiatic,languages
+arao1248,Araona,,-12.4242,-67.7293,arao1248,,6,language,Pano-Tacanan,languages
+bamb1269,Bambara,,12.9,-7.65,bamb1269,,175,language,Mande,languages
+bang1363,Bangime,,14.8116,-3.77092,bang1363,,178,language,,languages
+barw1243,Barwe,,-17.675,33.4534,barw1243,,198,language,Atlantic-Congo,languages
+baur1253,Baure,,-13.61,-63.68,baur1253,,7,language,Arawakan,languages
+bela1254,Belarusian,,53.2307,25.6038,bela1254,,84,language,Indo-European,languages
+beng1280,Bengali,,24.0,90.0,beng1280,,242,language,Indo-European,languages
+bisl1239,Bislama,,-15.4,166.89,bisl1239,,359,language,Indo-European,languages
+biss1248,Bissa,,10.4257,-1.67332,biss1248,,270,language,Mande,languages
+bulg1262,Bulgarian,,43.3646,25.047,bulg1262,,214,language,Indo-European,languages
+call1235,Callawalla,,-15.88451,-68.10176,call1235,,20,language,Speech Register,languages
+cani1243,Canichana,,-14.3058,-64.944455,cani1243,,9,language,,languages
+caro1242,Carolinian,,15.205,145.765,caro1242,,412,language,Austronesian,languages
+cavi1250,Cavineña,,-13.3544,-66.6277,cavi1250,,10,language,Pano-Tacanan,languages
+cayu1262,Cayubaba,,-13.2482,-65.4822,cayu1262,,11,language,,languages
+cent1989,Central Khmer,,12.0515,105.015,cent1989,,119,language,Austroasiatic,languages
+cent2142,Central Aymara,,-17.0,-68.5,cent2142,,5,language,Aymaran,languages
+chac1251,Chácobo,,-12.133,-66.7164,chac1251,,12,language,Pano-Tacanan,languages
+cham1312,Chamorro,,13.438011,144.74474,cham1312,,409 411,language,Austronesian,languages
+czec1258,Czech,,49.873398,15.10437,czec1258,,108,language,Indo-European,languages
+dani1285,Danish,,54.8655,9.36284,dani1285,,140 400,language,Indo-European,languages
+dari1249,Dari,,34.39757,66.14961,dari1249,,244,language,Indo-European,languages
+dhiv1236,Dhivehi,,1.928498,73.54433,dhiv1236,,353,language,Indo-European,languages
+dutc1256,Dutch,,52.0,5.0,dutc1256,,70 124 171 366 373 374,language,Indo-European,languages
+dyul1238,Dyula,,10.4536,-4.72007,dyul1238,,271,language,Mande,languages
+dzon1239,Dzongkha,,27.410786,89.581604,dzon1239,,82,language,Sino-Tibetan,languages
+esee1248,Ese Ejja,,-11.7268,-67.515,esee1248,,14,language,Pano-Tacanan,languages
+esto1258,Estonian,,58.55,25.82,esto1258,,111,language,Uralic,languages
+faro1244,Faroese,,62.0732,-6.88497,faro1244,,399,language,Indo-European,languages
+fiji1242,Fiji Hindi,,-17.8148,177.772,fiji1242,,299,language,Indo-European,languages
+fiji1243,Fijian,,-18.0,178.33,fiji1243,,298,language,Austronesian,languages
+fili1244,Filipino,,12.265,123.464,fili1244,,304,language,Austronesian,languages
+finn1318,Finnish,,64.7628,25.5577,finn1318,,116,language,Uralic,languages
+gilb1244,Gilbertese,,0.179,173.64,gilb1244,,316,language,Austronesian,languages
+guar1292,Guarayu,,-15.8247,-61.6934,guar1292,,17,language,Tupian,languages
+hait1244,Haitian,,18.795135,-72.136115,hait1244,,218,language,Indo-European,languages
+hass1238,Hassaniyya,,18.29,-14.11,hass1238,,180,language,Afro-Asiatic,languages
+hebr1245,Modern Hebrew,,31.1056,35.0179,hebr1245,,48,language,Afro-Asiatic,languages
+hind1269,Hindi,,25.0,77.0,hind1269,,45,language,Indo-European,languages
+hiri1237,Hiri Motu,,-9.33333,147.083,hiri1237,,284,language,Pidgin,languages
+hung1274,Hungarian,,46.9068585714,19.6555271429,hung1274,,144,language,Uralic,languages
+icel1247,Icelandic,,63.4837,-19.0212,icel1247,,311,language,Indo-European,languages
+igna1246,Ignaciano,,-15.1188,-65.3993,igna1246,,23,language,Arawakan,languages
+indo1316,Standard Indonesian,,-7.33458,109.716,indo1316,,1,language,Austronesian,languages
+iris1253,Irish,,53.2186,-7.61509,iris1253,,147,language,Indo-European,languages
+ital1282,Italian,,43.0464,12.6489,ital1282,,165 168 216 293,language,Indo-European,languages
+iten1243,Itene,,-12.2994,-64.9841,iten1243,,25,language,Chapacuran,languages
+iton1250,Itonama,,-12.80431,-64.35748,iton1250,,18,language,,languages
+kala1384,Kalanga,,-21.2887,27.401,kala1384,,200,language,Atlantic-Congo,languages
+kala1399,Kalaallisut,,69.3761,-52.864,kala1399,,371,language,Eskimo-Aleut,languages
+kaza1248,Kazakh,,51.17,71.454,kaza1248,,100,language,Turkic,languages
+kiny1244,Kinyarwanda,,-1.56771,29.6441,kiny1244,,239,language,Atlantic-Congo,languages
+kirg1245,Kirghiz,,42.0,74.0,kirg1245,,137,language,Turkic,languages
+kore1280,Korean,,37.54,126.98,kore1280,,72 73,language,Koreanic,languages
+laoo1244,Lao,,19.0,102.46,laoo1244,,136,language,Tai-Kadai,languages
+lati1261,Latin,,41.9026,12.4502,lati1261,,294,language,Indo-European,languages
+latv1249,Latvian,,56.826108,24.309118,latv1249,,112,language,Indo-European,languages
+leco1242,Leco,,-15.0092,-67.8818,leco1242,,19,language,,languages
+lith1251,Lithuanian,,55.1429,23.9601,lith1251,,103,language,Indo-European,languages
+luxe1241,Moselle Franconian,,49.6839,6.14931,luxe1241,,122,language,Indo-European,languages
+mace1250,Macedonian,,41.5957,21.7932,mace1250,,128,language,Indo-European,languages
+mach1268,Machinere,,-10.661655,-70.208108,mach1268,,21,language,Arawakan,languages
+mala1479,Central Malay,,1.85856,103.0,mala1479,,2 227 338,language,Austronesian,languages
+malt1254,Maltese,,35.8884,14.4508,malt1254,,335,language,Afro-Asiatic,languages
+mama1271,Mamara Senoufo,,12.4871,-5.28245,mama1271,,183,language,Atlantic-Congo,languages
+mand1415,Mandarin Chinese,,40.0209,116.228,mand1415,,47 309 339 369 413,language,Sino-Tibetan,languages
+manx1243,Manx,,54.2604,-4.45437,manx1243,,397,language,Indo-European,languages
+maor1246,Maori,,-38.2881,176.541,maor1246,,301,language,Austronesian,languages
+mars1254,Marshallese,,8.72,167.73,mars1254,,318,language,Austronesian,languages
+mode1248,Modern Greek,,38.36,23.13,mode1248,,43 150,language,Indo-European,languages
+mori1278,Morisyen,,-20.2613,57.5517,mori1278,,329,language,Indo-European,languages
+mose1249,Mosetén-Chimané,,-14.64448,-67.83756,mose1249,,13 26,language,,languages
+moss1236,Mossi,,11.95,-1.32,moss1236,,269,language,Atlantic-Congo,languages
+movi1243,Movima,,-13.8115,-65.6348,movi1243,,27,language,,languages
+namb1291,Nambya,,-19.0899,26.0394,namb1291,,202,language,Atlantic-Congo,languages
+naur1243,Nauru,,-0.52957,166.922,naur1243,,355,language,Austronesian,languages
+ndau1241,Ndau,,-20.1239,33.1739,ndau1241,,203,language,Atlantic-Congo,languages
+nepa1254,Nepali,,28.0,85.0,nepa1254,,262,language,Indo-European,languages
+niue1239,Niuean,,-19.06,-169.86,niue1239,,361,language,Austronesian,languages
+norw1258,Norwegian,,59.92,10.71,norw1258,,113,language,Indo-European,languages
+nucl1235,Eastern Armenian,,40.0,45.0,nucl1235,,139,language,Indo-European,languages
+nucl1301,Turkish,,39.8667,32.8667,nucl1301,,44 134 295,language,Turkic,languages
+nucl1302,Georgian,,41.850397,43.78613,nucl1302,,127,language,Kartvelian,languages
+nucl1310,Burmese,,20.7926,93.9665,nucl1310,,241,language,Sino-Tibetan,languages
+nucl1643,Japanese,,35.0,135.0,nucl1643,,310,language,Japonic,languages
+nyan1308,Nyanja,,-14.8047,32.8108,nyan1308,,62 197,language,Atlantic-Congo,languages
+paca1246,Pacahuara,,-11.9968,-65.5568,paca1246,,28,language,Pano-Tacanan,languages
+pala1344,Palauan,,7.34138,134.476678,pala1344,,363,language,Austronesian,languages
+papi1253,Papiamento,,12.48485,-69.93988,papi1253,,375,language,Indo-European,languages
+para1311,Paraguayan Guaraní,,-25.60551,-57.08816,para1311,,15 257,language,Tupian,languages
+paus1244,Warázu,,-12.8553,-63.1903,paus1244,,16,language,Tupian,languages
+piji1239,Pijin,,-9.567,160.137,piji1239,,350,language,Indo-European,languages
+pitc1234,Pitcairn-Norfolk,,-24.379858,-128.324075,pitc1234,,342 378,language,Indo-European,languages
+poli1260,Polish,,51.8439,18.6255,poli1260,,146,language,Indo-European,languages
+port1283,Portuguese,,39.91,-8.1,port1283,,104 191 225 231 258 275 290 333 334 414,language,Indo-European,languages
+puqu1242,Puquina,,-15.8992,-69.9611,puqu1242,,29,language,,languages
+raro1241,Southern Cook Island Maori,,-21.23,-159.78,raro1241,,344,language,Austronesian,languages
+reye1240,Reyesano,,-14.8333,-67.0833,reye1240,,22,language,Pano-Tacanan,languages
+roma1326,Romansh,,46.5538,9.92812,roma1326,,169,language,Indo-European,languages
+roma1327,Romanian,,46.3913,24.2256,roma1327,,143 259,language,Indo-European,languages
+rund1242,Rundi,,-2.94,29.97,rund1242,,235,language,Atlantic-Congo,languages
+russ1263,Russian,,59.0,50.0,russ1263,,85 101 107 138,language,Indo-European,languages
+samo1305,Samoan,,-13.92,-171.83,samo1305,,348 407,language,Austronesian,languages
+sang1328,Sango,,6.78584,20.1702,sang1328,,156,language,Atlantic-Congo,languages
+sese1246,Seselwa Creole French,,-4.62314,55.4503,sese1246,,314,language,Indo-European,languages
+shon1251,Shona,,-17.20849,29.75725,shon1251,,206,language,Atlantic-Congo,languages
+sinh1246,Sinhala,,8.0,81.0,sinh1246,,306,language,Indo-European,languages
+siri1273,Sirionó,,-15.5298,-63.9688,siri1273,,31,language,Tupian,languages
+slov1268,Slovenian,,46.2543,14.7766,slov1268,,193,language,Indo-European,languages
+slov1269,Slovak,,48.545705,18.78479,slov1269,,109 145,language,Indo-European,languages
+soma1255,Somali,,4.778704,45.152856,soma1255,,54 57 68,language,Afro-Asiatic,languages
+soni1259,Soninke,,13.1273,-11.7178,soni1259,,186,language,Mande,languages
+sout1528,Serbian-Croatian-Bosnian,,44.15,18.81,sout1528,,133 174 192 246 247 248 249,language,Indo-European,languages
+sout2807,Southern Sotho,,-28.78,27.89,sout2807,,90 207 263,language,Atlantic-Congo,languages
+sout2808,Sumayela Ndebele,,-25.6272,29.048,sout2808,,89 204,language,Atlantic-Congo,languages
+stan1288,Spanish,,40.4414,-1.11788,stan1288,,3 4 41 42 77 78 79 105 135 219 223 224 252 253 254 255 256 279 281 282 291 384,language,Indo-European,languages
+stan1289,Catalan,,41.453,1.569,stan1289,,243,language,Indo-European,languages
+stan1290,French,,48.0,2.0,stan1290,,69 80 81 120 125 153 155 160 167 173 188 190 217 221 228 234 238 266 267 268 273 278 289 302 313 332 358 365 372 377 380 383 391 393 395 403,language,Indo-European,languages
+stan1293,English,,53.0,-1.0,stan1293,,46 56 59 61 64 67 71 86 88 148 149 151 152 154 158 189 196 199 213 232 236 237 250 264 265 274 276 277 280 283 292 296 297 300 305 308 312 315 317 319 320 321 322 323 324 325 326 327 328 336 337 341 343 345 347 349 352 354 356 357 360 362 367 368 370 376 379 381 382 385 386 387 388 389 390 392 394 396 401 402 404 405 406 408 410,language,Indo-European,languages
+stan1295,German,,48.649,12.4676,stan1295,,110 121 126 162 166 172,language,Indo-European,languages
+stan1318,Standard Arabic,,27.9625,43.8525,stan1318,,49 50 58 65 66 74 76 98 123 141 142 157 159 163 194 195 220 222 229 261 286 287 288 330 364,language,Afro-Asiatic,languages
+swah1253,Swahili,,-8.25605,37.624,swah1253,,60 63 240 251,language,Atlantic-Congo,languages
+swat1243,Swati,,-26.0,31.5,swat1243,,92 233,language,Atlantic-Congo,languages
+swed1254,Swedish,,59.800634,17.389526,swed1254,,115 117 398,language,Indo-European,languages
+taca1256,Tacana,,-13.39249,-68.04056,taca1256,,32,language,Pano-Tacanan,languages
+taji1245,Tajik,,38.8213,68.5549,taji1245,,102,language,Indo-European,languages
+tama1365,Tamasheq,,14.2038,-2.41269,tama1365,,187,language,Afro-Asiatic,languages
+tami1289,Tamil,,10.520219,78.825989,tami1289,,307 340,language,Dravidian,languages
+tapi1253,Tapieté,,-21.4169,-62.684,tapi1253,,33,language,Tupian,languages
+tetu1245,Tetum,,-9.11217,125.528,tetu1245,,226,language,Austronesian,languages
+thai1261,Thai,,14.192,100.671,thai1261,,215,language,Tai-Kadai,languages
+tigr1271,Tigrinya,,15.3359,38.9266,tigr1271,,55 161,language,Afro-Asiatic,languages
+tokp1240,Tok Pisin,,-9.41971,147.303,tokp1240,,285,language,Indo-European,languages
+tong1318,Tonga (Zambia),,-17.422325,27.103495,tong1318,,208,language,Atlantic-Congo,languages
+tong1325,Tonga (Tonga Islands),,-21.17,-175.25,tong1325,,346,language,Austronesian,languages
+toro1255,Toromono,,-13.3028,-67.3931,toro1255,,34,language,Pano-Tacanan,languages
+trin1274,Trinitario-Javeriano-Loretano,,-15.3331,-65.4096,trin1274,,24,language,Arawakan,languages
+tsoa1238,Northern Tshwa,,-19.7974,26.9638,tsoa1238,,201,language,Khoe-Kwadi,languages
+tson1249,Tsonga,,-23.5754,31.8105,tson1249,,93 205,language,Atlantic-Congo,languages
+tswa1253,Tswana,,-24.368,24.7587,tswa1253,,94 209,language,Atlantic-Congo,languages
+turk1304,Turkmen,,37.08719,59.17574,turk1304,,260,language,Turkic,languages
+tuva1244,Tuvalu,,-8.520813,179.198088,tuva1244,,351,language,Austronesian,languages
+ukra1253,Ukrainian,,49.796,29.945,ukra1253,,83,language,Indo-European,languages
+urdu1245,Urdu,,25.0,67.0,urdu1245,,212,language,Indo-European,languages
+vend1245,Venda,,-22.188,29.9523,vend1245,,95 210,language,Atlantic-Congo,languages
+viet1252,Vietnamese,,20.681188,105.774071,viet1252,,118,language,Austroasiatic,languages
+west2369,Western Farsi,,32.9,53.3,west2369,,170,language,Indo-European,languages
+wich1264,Güisnay,,-23.1633,-62.1757,wich1264,,36,language,Mataguayan,languages
+xaas1235,Xaasongaxango,,14.1,-10.95,xaas1235,,181,language,Mande,languages
+xhos1239,Xhosa,,-31.0389,28.0769,xhos1239,,96 211,language,Atlantic-Congo,languages
+yami1256,Yaminahua,,-9.8846,-71.5964,yami1256,,37,language,Pano-Tacanan,languages
+yuqu1240,Yuqui,,-16.7875,-64.9438,yuqu1240,,38,language,Tupian,languages
+yura1255,Yuracaré,,-16.7479,-65.1224,yura1255,,39,language,,languages
+zamu1245,Zamuco,,-18.910444,-59.439698,zamu1245,,40,language,Zamucoan,languages
+zulu1248,Zulu,,-28.9,30.2,zulu1248,,97,language,Atlantic-Congo,languages
+afro1255,Afro-Asiatic,,,,afro1255,,48 49 50 51 52 53 54 55 57 58 65 66 68 74 75 76 98 123 141 142 157 159 161 163 180 187 194 195 220 222 229 230 261 286 287 288 330 335 364,family,,families
+araw1281,Arawakan,,,,araw1281,,7 21 23 24,family,,families
+atla1278,Atlantic-Congo,,,,atla1278,,60 62 63 89 90 91 92 93 94 95 96 97 156 179 183 184 197 198 200 202 203 204 205 206 207 208 209 210 211 233 235 239 240 251 263 269 272 331,family,,families
+aust1305,Austroasiatic,,,,aust1305,,118 119,family,,families
+aust1307,Austronesian,,,,aust1307,,1 2 226 227 298 301 303 304 316 318 338 344 346 348 351 355 361 363 407 409 411 412,family,,families
+ayma1253,Aymaran,,,,ayma1253,,5,family,,families
+chap1271,Chapacuran,,,,chap1271,,25,family,,families
+chiq1253,Chiquitano,,,,chiq1253,,8,family,,families
+drav1251,Dravidian,,,,drav1251,,307 340,family,,families
+eski1264,Eskimo-Aleut,,,,eski1264,,371,family,,families
+indo1319,Indo-European,,,,indo1319,,3 4 41 42 43 45 46 56 59 61 64 67 69 70 71 77 78 79 80 81 83 84 85 86 87 88 101 102 103 104 105 107 108 109 110 112 113 115 117 120 121 122 124 125 126 128 129 130 132 133 135 138 139 140 143 145 146 147 148 149 150 151 152 153 154 155 158 160 162 164 165 166 167 168 169 170 171 172 173 174 188 189 190 191 192 193 196 199 212 213 214 216 217 218 219 221 223 224 225 228 231 232 234 236 237 238 242 243 244 245 246 247 248 249 250 252 253 254 255 256 258 259 262 264 265 266 267 268 273 274 275 276 277 278 279 280 281 282 283 285 289 290 291 292 293 294 296 297 299 300 302 305 306 308 311 312 313 314 315 317 319 320 321 322 323 324 325 326 327 328 329 332 333 334 336 337 341 342 343 345 347 349 350 352 353 354 356 357 358 359 360 362 365 366 367 368 370 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 408 410 414,family,,families
+japo1237,Japonic,,,,japo1237,,310,family,,families
+kart1248,Kartvelian,,,,kart1248,,127,family,,families
+khoe1240,Khoe-Kwadi,,,,khoe1240,,201,family,,families
+kore1284,Koreanic,,,,kore1284,,72 73,family,,families
+mand1469,Mande,,,,mand1469,,175 176 177 181 182 186 270 271,family,,families
+mata1289,Mataguayan,,,,mata1289,,36,family,,families
+mong1349,Mongolic-Khitan,,,,mong1349,,106,family,,families
+pano1259,Pano-Tacanan,,,,pano1259,,6 10 12 14 22 28 32 34 37,family,,families
+pidg1258,Pidgin,,,,pidg1258,,284,family,,families
+quec1387,Quechuan,,,,quec1387,,30,family,,families
+sino1245,Sino-Tibetan,,,,sino1245,,47 82 241 309 339 369 413,family,,families
+song1307,Songhay,,,,song1307,,185,family,,families
+spee1234,Speech Register,,,,spee1234,,20,family,,families
+taik1256,Tai-Kadai,,,,taik1256,,136 215,family,,families
+tupi1275,Tupian,,,,tupi1275,,15 16 17 31 33 38 257,family,,families
+turk1311,Turkic,,,,turk1311,,44 99 100 131 134 137 260 295,family,,families
+ural1272,Uralic,,,,ural1272,,111 114 116 144,family,,families
+uruc1242,Uru-Chipaya,,,,uruc1242,,35,family,,families
+zamu1243,Zamucoan,,,,zamu1243,,40,family,,families
