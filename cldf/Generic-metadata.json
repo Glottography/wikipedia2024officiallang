@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/wikipedia2024officiallang",
             "rdf:type": "prov:Entity",
-            "dc:created": "ca12872",
+            "dc:created": "47c5a57",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -96,7 +96,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 188,
+            "dc:extent": 198,
             "tableSchema": {
                 "columns": [
                     {

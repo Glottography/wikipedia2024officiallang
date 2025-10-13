@@ -1,4 +1,14 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+bosn1245,Bosnian Standard,,43.859,17.046,bosn1245,,247,dialect,Indo-European,dialects
+chew1246,Chewa,,,,chew1246,,197,dialect,Atlantic-Congo,dialects
+croa1245,Croatian Standard,,45.555,15.982,croa1245,,192 248,dialect,Indo-European,dialects
+east2821,Eastern Herzegovinian Shtokavian,,,,east2821,,133 174 192 246 247 248 249,dialect,Indo-European,dialects
+jerr1238,Jerriais,,49.2123,-2.1325,jerr1238,,393,dialect,Indo-European,dialects
+mont1282,Montenegrin Standard,,,,mont1282,,246,dialect,Indo-European,dialects
+news1236,New Shtokavian,,,,news1236,,133 174 192 246 247 248 249,dialect,Indo-European,dialects
+serb1264,Serbian Standard,,44.3238,21.9192,serb1264,,133 174 249,dialect,Indo-European,dialects
+shto1241,Shtokavski,,,,shto1241,,133 174 192 246 247 248 249,dialect,Indo-European,dialects
+trin1278,Trinitario,,,,trin1278,,24,dialect,Arawakan,dialects
 afar1241,Afar,,12.2281,41.8083,afar1241,,51,language,Afro-Asiatic,languages
 afri1274,Afrikaans,,-31.63272,20.46356,afri1274,,87,language,Indo-European,languages
 amha1245,Amharic,,11.708182,39.543456,amha1245,,52,language,Afro-Asiatic,languages
