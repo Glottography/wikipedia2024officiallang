@@ -4,5 +4,6 @@
     "description": "This dataset provides overlapping, contemporary language ranges based on the list of official languages by country and territory from Wikipedia 2024.",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17342115",
     "citation": "{Wikipedia contributors}. 2024. List of official languages by country and territory --- Wikipedia, The Free Encyclopedia. ([Online; accessed 18-November-2024])."
 }
